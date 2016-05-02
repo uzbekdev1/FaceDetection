@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+/Face Detection and Recognition/build
+/Face Detection and Recognition/Face Recognition/x64
+/Face Detection and Recognition/Face Recognition/x86
